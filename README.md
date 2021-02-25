@@ -1,2 +1,2 @@
 # Jupyter
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Blackercake/Jupyter/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FBlackercake%2FJupyter%2Fblob%2Fmain%2FMain2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Blackercake/Jupyter/71a7203cee226275e7f8f8ead3f0d4b1a5c5b835?filepath=Main2.ipynb)
